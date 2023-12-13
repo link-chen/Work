@@ -11,10 +11,10 @@ e.g
 第一张图片使用相对路径插入，插入的格式如下：
 
 ```
-![](../Markdown/Picture/2003308.jpg)
+![](./Markdown/Picture/2003308.jpg)
 ```
 
-![](../Markdown/Picture/2003308.jpg)
+![](./Picture/2003308.jpg)
 
 第二张图片使用绝对路径插入，其插入格式如下所示
 
